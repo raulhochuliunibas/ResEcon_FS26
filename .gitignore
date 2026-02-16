@@ -1,3 +1,16 @@
+# ----------------------------------
+# REPO-SPECIFIC GITIGNORES
+# ----------------------------------
+*/*_solutions.ipynb
+*/*_solutions.py
+*/*_notes.md
+
+
+
+# ----------------------------------
+# PYTHON SPECIFIC PRE-SET GITIGNORES
+# ----------------------------------
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
